@@ -73,7 +73,7 @@ src/
 
 ## 📦 Core Modules
 
-* 🔹 Authentication صفحات (Login, Register)
+* 🔹 Authentication Pages (Login, Register)
 * 🔹 Dashboard (analytics overview)
 * 🔹 User management UI
 * 🔹 Data tables & filtering
